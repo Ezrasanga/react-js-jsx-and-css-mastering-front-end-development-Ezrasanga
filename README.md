@@ -54,13 +54,8 @@ src/
 
 ## Submission
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
+My Live application(https://react-js-jsx-and-css-mastering-fron-zeta.vercel.app/api)
 
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
 
 ## Resources
 
